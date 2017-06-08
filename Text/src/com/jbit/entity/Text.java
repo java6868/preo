@@ -10,6 +10,9 @@ public class Text {
 		
 		//macai修改
 		System.out.println("xiugai");
+		
+		//输出(内存溢出，结果为负数)
+		System.out.println(Integer.MAX_VALUE+1);
 	}
 
 }
